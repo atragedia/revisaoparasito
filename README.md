@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -489,3 +490,4 @@ document.getElementById('btn-restart').addEventListener('click', ()=>{
 </script>
 
 </body>
+</html>
